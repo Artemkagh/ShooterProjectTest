@@ -11,8 +11,6 @@ namespace OldMovment
         private bool _spaceClicked = false;
         private bool _leftClicked = false;
         private bool _reloadClicked = false;
-    
-        // если это будет SO то не забудь сделать метод ResetData чтобы всё было по нулям при запуске сцены??????????
 
         public float LookAround{
             get => _lookaround;
