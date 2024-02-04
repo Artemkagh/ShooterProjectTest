@@ -9,7 +9,7 @@ namespace UI
         [SerializeField] private Button quitBtn;
         
         public Button PlayBtn => playBtn;
-
+        
         public Button QuitBtn => quitBtn;
     }
 }
